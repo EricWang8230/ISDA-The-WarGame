@@ -8,13 +8,13 @@
 ## GAME#1
 <ol>
 	<li>
-		Level1: View Source Code / 路徑泄露
+		Level1: View Source Code / 檢視原始碼 & 路徑泄露
 	</li>
 	<li>
 		Level2: Default Password / 預設密碼
 	</li>
 	<li>
-		Level3: Encryption / 加密解密演算法
+		Level3: File Type / 檔案類型 & Encryption / 加密解密演算法
 	</li>
 	<li>
 		Level4: User Input / 使用者的輸入是很危險的
