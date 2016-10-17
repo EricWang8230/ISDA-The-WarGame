@@ -14,7 +14,7 @@
 		Level2: Default Password / 預設密碼
 	</li>
 	<li>
-		Level3: Encryption / 加密解密演算法
+		Level3: File Type / 檔案類型 & Encryption / 加密解密演算法
 	</li>
 	<li>
 		Level4: User Input / 使用者的輸入是很危險的
