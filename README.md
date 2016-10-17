@@ -10,8 +10,8 @@ ISDA是一個非營利組織，致力於推廣資訊安全教育。詳細資訊�
 <br>
 
 ## WarGame 與 CTF 的差異
-* WarGame是一總教育訓練的方式
-* CTF是一場駭客的比賽挑戰賽
+* WarGame是一種教育訓練的方式
+* CTF是一場駭客的挑戰比賽
  
 來源： Steve Ho(aka Unohope)
 
