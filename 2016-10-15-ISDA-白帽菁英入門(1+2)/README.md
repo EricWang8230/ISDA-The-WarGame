@@ -8,7 +8,7 @@
 ## GAME#1
 <ol>
 	<li>
-		Level1: View Source Code / 路徑泄露
+		Level1: View Source Code / 檢視原始碼 & 路徑泄露
 	</li>
 	<li>
 		Level2: Default Password / 預設密碼
